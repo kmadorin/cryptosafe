@@ -1,0 +1,8 @@
+byer id: 0x2143053770afcfe3ad2e43b13423d2b71f5eaa7f (user1)
+seller id: 0x054c2c4500816edd690f91acd76cf4fe30bb1497 (user2)
+
+id сделки 5
+
+Пароль админа: hackthings
+
+1. Добавить сделку с buyer id
